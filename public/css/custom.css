@@ -1,0 +1,19 @@
+table.dataTable tbody td, table.dataTable tbody th {
+    padding: 8px;
+}
+table.dataTable thead>tr>th {
+    padding: 10px;
+}
+
+#dataTable #bread-actions a, .actions a.btn {
+	padding: 4px 8px;
+    line-height: 1.5;
+}
+
+.table-responsive {
+    font-size: 14px;
+}
+
+b { 
+    font-weight: bold !important;
+}
